@@ -1,0 +1,32 @@
+
+body{
+    background-color:black;
+    margin:0px;
+}
+div.row div{
+    width: 20px;
+    height: 20px;
+    
+    display:inline-block;
+}
+.brick{
+    background: url('wall.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+
+}
+.coin{
+    background: url('morty.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.pacman{
+    background: url('rick.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.empty{
+}
